@@ -12,7 +12,7 @@ export const projects = [
     title: "Sync Stream",
     description:
       "SyncStream is a full-stack web application that allows users to watch videos together in real time, create or join sessions (rooms), and chat during playback. It offers admin-controlled video management, session syncing via WebSockets, and real-time interaction – similar to platforms like Teleparty or Netflix Party.",
-    techStack: ["React.js", "Node.js", "Express.js", "JWT", "MongoDB", "Tailwind CSS", "Socket.io", "TMDB", "REST APIs"],
+    techStack: ["React.js", "Node.js", "Express.js", "Python", "JWT", "MongoDB", "Tailwind CSS", "Socket.io", "TMDB", "REST APIs"],
     link: "https://project-one-live-url.com",
     github: "https://github.com/sachinpatel02/Sync-Stream",
   },
@@ -29,7 +29,7 @@ export const projects = [
 
 export const personalInfo = {
   name: "Sachin Patel",
-  title: "Full Stack Developer",
+  title: "🧑🏼‍💻Full Stack Developer & 🤖AI Enthusiast",
   email: "sachinp1613@gmail.com",
   location: "Vadodara, Gujarat, India",
   bio: "Passionate full-stack developer with expertise in modern web technologies. I love creating efficient, scalable solutions and turning ideas into reality.",

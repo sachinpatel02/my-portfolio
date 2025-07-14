@@ -41,7 +41,7 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-start mb-16">
           <div>
             <h3 className="text-2xl font-semibold text-white mb-4">
-              My Journey
+              🧭 My Journey 
             </h3>
             <p className="text-gray-300 mb-4">
               With a strong foundation in both frontend and backend
@@ -74,14 +74,22 @@ export default function About() {
           {/* Quick Facts Card */}
           <div className="bg-neutral-900 p-8 rounded-lg border border-neutral-800">
             <h3 className="text-xl font-semibold text-white mb-4">
-              Quick Facts
+              Education 🎓
             </h3>
             <ul className="space-y-2 text-gray-300">
-              <li>👉🏻 3+ years of development experience</li>
-              <li>👉🏻 4.5+ years of experience with International Clients</li>
-              <li>👉🏻 Full-stack development expertise</li>
-              <li>👉🏻 Master’s in Artificial Intelligence & Machine Learning </li>
-              <li>👉🏻 Always eager to learn new technologies</li>
+              <li>👨🏻‍🎓 MCA with AI & ML from Parul University, Vadodara</li>
+              <li>👨🏻‍🎓 BCA from SGGU, Vadodara</li>
+            </ul>
+            <h3 className="text-xl font-semibold text-white mb-4 mt-10">
+              Quick Facts ✍🏻
+            </h3>
+            <ul className="space-y-2 text-gray-300">
+              <li>💻 3+ years of development experience</li>
+              <li>💼 4.5+ years of experience with International Clients</li>
+              <li>🎓 Holding Master’s degree in AI & ML </li>
+              <li>🧑🏼‍💻 Full-stack development expertise</li>
+              <li>🧠 Strong foundation in Data Structures & Algorithms</li>
+              <li>📕 Always eager to learn new technologies</li>
             </ul>
           </div>
         </div>
@@ -89,7 +97,7 @@ export default function About() {
         {/* Professional Experience */}
         <div className="mb-16">
           <h3 className="text-2xl font-semibold text-white mb-6">
-            Professional Experience
+            🚀 Professional Experience 
           </h3>
           <div className="bg-neutral-900 p-6 rounded-lg border border-neutral-800 space-y-4">
             <div>
@@ -126,8 +134,8 @@ export default function About() {
                 infrastructure integration.
               </li>
               <li>
-                ➝ Recognized with <strong className="text-blue-300">Infosys CIS Rise Insta Award (×3) </strong>and <strong className="text-blue-300">Delivery
-                Ninja Award (×2)</strong> for technical excellence.
+                ➝ Recognized with <strong className="text-blue-300">Infosys CIS Rise Insta Award 🏆🏆🏆(×3) </strong>and <strong className="text-blue-300">Delivery
+                Ninja Award 🏆🏆(×2)</strong> for technical excellence.
               </li>
             </ul>
           </div>
