@@ -2,7 +2,7 @@ import Head from 'next/head';
 import "./globals.css";
 
 export const metadata = {
-  title: "Sachin Patel - Portfolio",
+  title: "Sachin Patel",
   description: "Full Stack Developer Portfolio",
   icons: {
     icon: "data:,", // This creates an empty favicon
