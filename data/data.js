@@ -19,10 +19,10 @@ export const projects = [
   {
     title: "sachinpatel.online",
     description:
-      "This project showcases my skills in frontend development with Next.js and TailwindCSS, creating a morden website",
-    techStack: ["Next.js", "TailwindCSS"],
-    link: "https://project-two-live-url.com",
-    github: "https://github.com/your-username/project-two",
+      "This project showcases my skills in frontend development with Next.js and TailwindCSS, creating a morden website and deploying it using Vercel",
+    techStack: ["Next.js", "TailwindCSS", "Vercel"],
+    link: "https://sachinpatel.online/",
+    github: "https://github.com/sachinpatel02/my-portfolio",
   },
   // Add more projects here
 ]
