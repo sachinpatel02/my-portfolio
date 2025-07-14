@@ -29,7 +29,7 @@ export const projects = [
 
 export const personalInfo = {
   name: "Sachin Patel",
-  title: "🧑🏼‍💻Full Stack Developer & 🤖AI Enthusiast",
+  title: "🧑🏼‍💻Full Stack Developer & 🤖 AI Enthusiast",
   email: "sachinp1613@gmail.com",
   location: "Vadodara, Gujarat, India",
   bio: "Passionate full-stack developer with expertise in modern web technologies. I love creating efficient, scalable solutions and turning ideas into reality.",
