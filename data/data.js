@@ -9,6 +9,13 @@ export const socialLinks = [
 
 export const projects = [
   {
+    title: "AI-Powered Blog Platform with FastAPI Microservices",
+    description: "A scalable, AI-integrated blog backend built with FastAPI using a microservices architecture. It features secure user authentication, full CRUD operations for posts and nested comments, and real-time sentiment analysis powered by NLP. Each service is isolated and communicates via HTTP, ensuring performance, modularity, and clean separation of concerns.",
+    techStack: ["FastAPI", "Microservices", "AI & NLP: TextBlob, NLTK", "PostgreSQL [Supabase]", "SQLModel", "Pydantic","JWT", "bcrypt", "Swagger UI"],
+    link: "https://github.com/sachinpatel02/blog-sentiment-analysis",
+    github: "https://github.com/sachinpatel02/blog-sentiment-analysis",
+  },
+  {
     title: "Sync Stream",
     description:
       "SyncStream is a full-stack web application that allows users to watch videos together in real time, create or join sessions (rooms), and chat during playback. It offers admin-controlled video management, session syncing via WebSockets, and real-time interaction – similar to platforms like Teleparty or Netflix Party.",
