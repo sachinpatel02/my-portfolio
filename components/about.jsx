@@ -11,17 +11,17 @@ export default function About() {
     {
       icon: <Database className="w-8 h-8" />,
       title: "Backend Development",
-      description: "Node.js, Express, MongoDB, MySQL, REST APIs",
+      description: "FastAPI, Node.js, SQL, MongoDB, RestAPI, Microservices",
     },
     {
       icon: <Code className="w-8 h-8" />,
       title: "Programming Languages",
-      description: "JavaScript, Python, Java, SQL",
+      description: "Python, JavaScript, Java, SQL",
     },
     {
       icon: <Smartphone className="w-8 h-8" />,
       title: "Tools & Technologies",
-      description: "Git, Postman, AWS, Vercel, VS Code, Figma",
+      description: "Git, Postman, AWS, Vercel, VS Code, Figma, Docker, Linux",
     },
   ];
 
@@ -41,7 +41,7 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12 items-start mb-16">
           <div>
             <h3 className="text-2xl font-semibold text-white mb-4">
-              🧭 My Journey 
+              🧭 My Journey
             </h3>
             <p className="text-gray-300 mb-4">
               With a strong foundation in both frontend and backend
@@ -97,7 +97,7 @@ export default function About() {
         {/* Professional Experience */}
         <div className="mb-16">
           <h3 className="text-2xl font-semibold text-white mb-6">
-            🚀 Professional Experience 
+            🚀 Professional Experience
           </h3>
           <div className="bg-neutral-900 p-6 rounded-lg border border-neutral-800 space-y-4">
             <div>
@@ -110,32 +110,37 @@ export default function About() {
             </div>
             <ul className="list-none text-gray-300 space-y-2 text-lm">
               <li>
-                ➝ Led development and infrastructure optimization using <strong className="text-blue-300">Python,
-                MySQL, MongoDB, and networking technologies.</strong>
+                ➝ Designed and developed high-performance RESTful APIs using
+                Python and FastAPI.
               </li>
               <li>
-                ➝ Collaborated with international clients to deliver strategic
-                network solutions, <strong className="text-blue-300">saving over $700,000 USD.</strong>
+                ➝ Leveraging async programming and Swagger documentation to
+                optimize backend systems for global clients, achieving over
+                $700,000 USD in cost savings
               </li>
               <li>
-                ➝ Acted as Network SME, driving infrastructure and backend design
-                decisions across multiple projects.
+                ➝ Architected scalable microservices-based backend solutions,
+                integrating MySQL, MongoDB, and PostgreSQL databases with secure
+                JWT and OAuth2 authentication to deliver robust, client-facing
+                applications.
               </li>
               <li>
-                ➝ Built custom automation tools and client-specific optimizations
-                that improved system performance.
+                ➝ Engineered internal automation scripts and AI-driven tools
+                using FastAPI and Python, streamlining application-layer
+                integration and reducing process times by 25% across multiple
+                workflows.
               </li>
               <li>
-                ➝ Delivered technical training and led engineering teams on key
-                networking and backend initiatives.
-              </li>
-              <li>
-                ➝ Developed backend tools for automation and seamless
-                infrastructure integration.
-              </li>
-              <li>
-                ➝ Recognized with <strong className="text-blue-300">Infosys CIS Rise Insta Award 🏆🏆🏆(×3) </strong>and <strong className="text-blue-300">Delivery
-                Ninja Award 🏆🏆(×2)</strong> for technical excellence.
+                ➝ Recognized with{" "}
+                <strong className="text-blue-300">
+                  Infosys’ CIS Rise Insta Award 🏆🏆🏆(×3){" "}
+                </strong>{" "}
+                and{" "}
+                <strong className="text-blue-300">
+                  Delivery Ninja Award 🏆🏆(×2)
+                </strong>{" "}
+                for exceptional performance in backend development projects,
+                delivering solutions with high accuracy and SLA compliance.
               </li>
             </ul>
           </div>
